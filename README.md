@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/ietf-tools/common/main/assets/logos/datatracker.svg" alt="IETF Datatracker" height="125" />
+<img src="https://raw.githubusercontent.com/ietf-tools/common/main/assets/logos/datatracker.svg" alt="IETF Datatracker," height="125" />
 
 [![Release](https://img.shields.io/github/release/ietf-tools/datatracker.svg?style=flat&maxAge=300)](https://github.com/ietf-tools/datatracker/releases)
 [![License](https://img.shields.io/github/license/ietf-tools/datatracker)](https://github.com/ietf-tools/datatracker/blob/main/LICENSE)
@@ -40,7 +40,7 @@
 
 ---
 
-### Getting Started
+### Getting Started...
 
 This project is following the standard **Git Feature Workflow** development model. Learn about all the various steps of the development workflow, from creating a fork to submitting a pull request, in the [Contributing](https://github.com/ietf-tools/.github/blob/main/CONTRIBUTING.md) guide.
 
